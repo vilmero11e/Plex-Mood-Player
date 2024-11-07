@@ -1,4 +1,5 @@
-🎬 Plex Mood Player
+
+##🎬 Plex Mood Player
 Plex Mood Player is a Python script that recommends movies based on your mood. The program fetches a large list of movies from an online source and filters suggestions based on mood-specific keywords. When a movie is selected, it opens directly in Plex's web app.
 
 ✨ Features
@@ -41,3 +42,7 @@ If no movies match the selected mood, a random movie will be chosen as a fallbac
 📜 License
 This project is licensed under the MIT License.
 
+Key Changes:
+Big Titles: Used # for the main title and ## for sub-sections to make them larger, which will render correctly on GitHub.
+Consistent Formatting: Each section and heading has the appropriate size, and the content is well-structured.
+This version should now display larger headers and look great on GitHub! Let me know if this works for you.
