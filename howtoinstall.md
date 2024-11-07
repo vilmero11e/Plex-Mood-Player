@@ -1,7 +1,7 @@
 # 🚀 Installation Steps
 
 
-1. Clone or Download the Repository
+## 1. Clone or Download the Repository
 You can either clone the repository using Git or download it as a ZIP file.
 
 Option 1: Clone the repository using Git
