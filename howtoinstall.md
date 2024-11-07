@@ -48,3 +48,6 @@ Permission Issues: If you encounter permission errors when installing packages, 
 
 ## 📝 License
 This project is licensed under the MIT License. For more information, see the LICENSE file.
+
+
+### [BACK](https://github.com/vilmero11e/Plex-Mood-Player/blob/)
