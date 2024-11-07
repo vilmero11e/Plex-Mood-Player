@@ -4,12 +4,12 @@
 ## 1. Clone or Download the Repository
 You can either clone the repository using Git or download it as a ZIP file.
 
-Option 1: Clone the repository using Git
+### Option 1: Clone the repository using Git
 Open a terminal or command prompt and run:
 
 git clone https://github.com/vilmero11e/plex-mood-player.git
 
-## Option 2: Download as a ZIP file
+### Option 2: Download as a ZIP file
 If you don't have Git installed, you can manually download the ZIP file from the repository's GitHub page. Extract it to a folder on your computer.
 
 ## 2. Install Required Python Libraries
