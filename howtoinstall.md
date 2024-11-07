@@ -16,7 +16,7 @@ If you don't have Git installed, you can manually download the ZIP file from the
 Navigate to the folder where Plex Mood Player is located. You will need to install the required dependencies listed in the requirements.txt file. To install them, run the following:
 
 
-#### pip install -r requirements.txt
+#### '''' pip install -r requirements.txt
 
 This will automatically install all necessary libraries for the script to function properly.
 
