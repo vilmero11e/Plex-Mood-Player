@@ -40,9 +40,10 @@ The program will prompt you to input your mood (e.g., "happy," "sad," "action," 
 ## 4. Enjoy the Movie!
 Once the program recommends a movie based on your mood, it will automatically open the movie search page in your default web browser on the Plex platform.
 
-💡 Troubleshooting
+## 💡 Troubleshooting
 Python Not Installed: If you don’t have Python installed, download it from https://www.python.org/.
 Missing Libraries: If you encounter errors about missing libraries, make sure you run pip install -r requirements.txt in the correct folder and that your Python environment is set up properly.
 Permission Issues: If you encounter permission errors when installing packages, try running the command with sudo (for macOS/Linux) or run the Command Prompt as Administrator (for Windows).
-📝 License
+
+## 📝 License
 This project is licensed under the MIT License. For more information, see the LICENSE file.
