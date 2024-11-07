@@ -16,6 +16,10 @@ If no movie matches your mood, a random suggestion is provided.
 ### 🔄 Looping Menu
 Continue exploring moods without restarting the program. Type "exit" to quit.
 
+## 📚 Tutorial
+
+For detailed instructions on how to install and set up **Plex Mood Player**, please visit the [installation tutorial](https://github.com/vilmero11e/Plex-Mood-Player/blob/main/howtoinstall.md).
+
 ## 🎬 Usage
 
 1. **Run the Program**  
